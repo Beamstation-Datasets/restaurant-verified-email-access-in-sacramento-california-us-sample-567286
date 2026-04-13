@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "email",
+  "config_description": "--Reach Independent Inboxes--\n\nWeekly verified, high-deliverability emails.\n\nOnly for established, independent restaurants (or micro-chains) \u2013 large chain enterprises excluded.\n\nWeekly email verification and detailed analysis via our proprietary infrastructure.\n\nBusiness activity validated by an \"Active Heartbeat\" signal.",
+  "config_name": "Restaurant Verified Email Access in Sacramento, California, US",
+  "export_job_id": "0446404f-f1bb-426f-9dde-93fbc1e61bb2",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 567286,
+  "location_name": "Sacramento",
+  "location_type": "city",
+  "repo_name": "restaurant-verified-email-access-in-sacramento-california-us-sample-567286",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/567286/beamstation_567286_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 9.93,
+  "sample_records": 41,
+  "sample_sha256": "913677d830891a6dc1472398e15a09a35a31c06269d5501b99ef34ec5cdcdaae",
+  "sample_size_bytes": 182669,
+  "total_records": 413,
+  "updated_at": "2026-04-07T23:15:28.199871+00:00"
+}
