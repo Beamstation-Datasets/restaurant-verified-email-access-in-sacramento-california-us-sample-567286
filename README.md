@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Sacramento, California, US
 
-> Free BeamStation sample export with 41 rows and masked direct-contact fields.
+> Free BeamStation sample export with 40 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `567286` |
 | Location | Sacramento |
 | Category | Restaurants |
-| Full dataset size | 413 records |
-| Free sample size | 41 records (9.93%) |
-| Last export | 2026-04-07T23:15:28.199871+00:00 |
+| Full dataset size | 406 records |
+| Free sample size | 40 records (9.85%) |
+| Last export | 2026-04-15T05:02:56.363318+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-sacramento-california-us-sample-567286/releases/download/sample-latest/beamstation_567286_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
