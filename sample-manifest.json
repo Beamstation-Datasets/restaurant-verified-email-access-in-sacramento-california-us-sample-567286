@@ -1,12 +1,12 @@
 {
-  "export_job_id": "af4c0a13-10eb-4038-81a4-dc6126850eb9",
+  "export_job_id": "a43425e3-8b97-4f31-90f8-151781e1b81b",
   "id_short": 567286,
-  "published_at": "2026-04-22T19:55:15Z",
+  "published_at": "2026-04-30T07:37:26Z",
   "repo_name": "restaurant-verified-email-access-in-sacramento-california-us-sample-567286",
   "sample_asset_name": "beamstation_567286_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/567286/beamstation_567286_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 33,
-  "sample_sha256": "74f228d50b26f5a8403cc0323fa370fc2e20b02af85cb8e11791687d84301830",
-  "sample_size_bytes": 151692,
-  "total_records": 331
+  "sample_records": 37,
+  "sample_sha256": "07ce56170c7a2f5929253bbc823e28e5934d5c291e905008c3c2d3bafa6d2997",
+  "sample_size_bytes": 167826,
+  "total_records": 378
 }
